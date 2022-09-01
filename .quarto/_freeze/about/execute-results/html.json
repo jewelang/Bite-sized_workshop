@@ -1,7 +1,7 @@
 {
-  "hash": "a754ce02c0472c0b163d8ffb898e69ac",
+  "hash": "1562ecba93bf3a5c49b6cb307aa54120",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\nabout:\n  template: jolla\n  image: R.jpg\n  links:\n    - icon: linkedin\n      text: linkedin\n      href: https://www.linkedin.com\n    - icon: github\n      text: Github\n      href: http://github.com\n---\n\n\nThis website consists of a collection of slides used in a kflsmgkmlsdmklgsdnfjansnfieonfiao\n\nfsgerhg.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

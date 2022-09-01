@@ -1,8 +1,20 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: R.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com
+    - icon: github
+      text: Github
+      href: http://github.com
 ---
 
-About this site
+This website consists of a collection of slides used in a kflsmgkmlsdmklgsdnfjansnfieonfiao
+
+fsgerhg.
 
 ```{r}
 1 + 1
